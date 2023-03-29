@@ -3,6 +3,10 @@
 Data and code for "Reliable Network Inference From Unreliable Data: A Tutorial on Latent Network Modeling Using STRAND", published in Psychological Methods
 
 ----------------------------
+# The manuscript can be found at:
+
+- Psychological Methods: https://psycnet.apa.org/record/2023-51200-001
+- psyArxiv (preprint): https://psyarxiv.com/mkp2y/
 
 # Requirements for analyses:
 
